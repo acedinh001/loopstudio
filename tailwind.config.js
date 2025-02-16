@@ -12,6 +12,9 @@ module.exports = {
             fontFamily: {
                 sans: ['Josefin Sans', 'sans-serif'],
                 alata: ['Alata']
+            },
+            fontWeight: {
+                default: '300'
             }
         }
     },
