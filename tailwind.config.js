@@ -13,8 +13,8 @@ module.exports = {
                 sans: ['Josefin Sans', 'sans-serif'],
                 alata: ['Alata']
             },
-            fontWeight: {
-                default: '300'
+            letterSpacing: {
+                widest: '.3em'
             }
         }
     },
